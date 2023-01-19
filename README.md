@@ -5,7 +5,7 @@ Simple 2 player Tic TAc Toe game unsing c++ and user input;
 Made in February 2017
 
 ┌───────┬───────┬───────┐<br />
-│       │       │       │<br />
+│__       │__       │       │<br />
 │   1   │   2   │   3   │<br />
 │       │       │       │<br />
 ├───────┼───────┼───────┤<br />
